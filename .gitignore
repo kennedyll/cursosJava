@@ -1,0 +1,14 @@
+# Compiled files
+bin/
+*.class
+out/
+target/
+build/
+
+# IDEs
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
