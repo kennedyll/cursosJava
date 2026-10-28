@@ -31,7 +31,8 @@ Cada projeto com README em inglês, diagrama de arquitetura, Docker e testes.
 ## Ambiente
 
 - JDK 21 (LTS) instalado; o roadmap sugere o 25. VS Code agora; IntelliJ a partir da Fase 2.
-- Recursos: Curso em Vídeo (Guanabara), Nélio Alves (Udemy), dev.java, spring.io/guides.
+- Curso principal (Fase 1): Fernanda Kipper, Java para iniciantes (YouTube). Reforço de lógica: Curso em Vídeo (Guanabara), só nos tópicos em que travar. Prática: Beecrowd e Exercism.
+- Outros recursos: Nélio Alves (Udemy), dev.java, spring.io/guides.
 - GitHub: github.com/kennedyll/cursosJava. Mensagens de commit em inglês (`feat: ...`).
 
 ## Progresso
