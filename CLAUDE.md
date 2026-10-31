@@ -35,6 +35,25 @@ Cada projeto com README em inglês, diagrama de arquitetura, Docker e testes.
 - Outros recursos: Nélio Alves (Udemy), dev.java, spring.io/guides.
 - GitHub: github.com/kennedyll/cursosJava. Mensagens de commit em inglês (`feat: ...`).
 
+## Mapa do curso (Fernanda Kipper, youtube.com/watch?v=nODe5lFcGpg)
+
+| Sessão | Capítulos | Status |
+|---|---|---|
+| 1 | 00:00 Intro · 01:00 Base da linguagem · 04:47 JVM · 06:43 Instalação · 10:08 Primeiro arquivo .java | em andamento |
+| 2 | 13:32 Variáveis · 17:31 Tipos primitivos | |
+| 3 | 24:36 Condicionais (if, else, else if) | |
+| 4 | 29:37 Vetores · 35:32 ArrayList | |
+| 5 | 39:12 Loops (for, while) | |
+| 6 | 46:14 Casting · 51:08 Compilando e executando | |
+| — | Mini-projeto de fundamentos + Beecrowd antes de seguir para POO | |
+| 7 | 56:00 POO · 56:44 Classes, objetos, métodos, construtores | |
+| 8 | 01:07:48 Modificadores de acesso | |
+| 9 | 01:20:15 Interfaces e classes abstratas | |
+| 10 | 01:30:26 Herança e polimorfismo | |
+| 11 | 01:46:00 Tratamento de exceções | |
+
+Código de cada sessão em `src/` organizado por tema (ex.: `src/aula01_primeiro_programa/`).
+
 ## Progresso
 
 - [x] JDK instalado, Hello World, repositório no GitHub (28/10/2026)
