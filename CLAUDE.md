@@ -39,8 +39,8 @@ Cada projeto com README em inglês, diagrama de arquitetura, Docker e testes.
 
 | Sessão | Capítulos | Status |
 |---|---|---|
-| 1 | 00:00 Intro · 01:00 Base da linguagem · 04:47 JVM · 06:43 Instalação · 10:08 Primeiro arquivo .java | em andamento |
-| 2 | 13:32 Variáveis · 17:31 Tipos primitivos | |
+| 1 | 00:00 Intro · 01:00 Base da linguagem · 04:47 JVM · 06:43 Instalação · 10:08 Primeiro arquivo .java | concluída (assistida em 03/11/2026); exercícios 2–4 em andamento |
+| 2 | 13:32 Variáveis · 17:31 Tipos primitivos | próxima |
 | 3 | 24:36 Condicionais (if, else, else if) | |
 | 4 | 29:37 Vetores · 35:32 ArrayList | |
 | 5 | 39:12 Loops (for, while) | |

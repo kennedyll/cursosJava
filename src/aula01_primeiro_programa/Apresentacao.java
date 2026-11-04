@@ -7,6 +7,7 @@ public class Apresentacao {
     public static void main(String[] args) {
         System.out.println("Olá, meu nome é Ruan!");
         System.out.println("Sou de Extremoz-RN");
-        System.out.println("O meu objetivo é se tornar um Dev na Gringa");
+        System.out.println("O meu objetivo é me tornar um Dev na Gringa");
+        System.out.println("Data: 04/11/2026");
     }
 }
