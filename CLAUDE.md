@@ -7,6 +7,7 @@ Este repositório centraliza os estudos do Ruan no roadmap "Java: do zero à vag
 - Todo dia o Ruan informa a aula ou o curso que está fazendo. Com base nisso, trazer: um resumo com os pontos-chave e as pegadinhas, 2 a 3 exercícios **apenas sobre o que já foi visto** (nunca aleatórios), uma aplicação do dia a dia e uma leitura de referência (dev.java, documentação oficial).
 - Até o fim da Fase 2, ajudar nos exercícios com dicas e perguntas, não com a solução pronta, a menos que ele peça explicitamente.
 - Lembrar do commit/push ao final do estudo e do inglês diário.
+- **Copilot (autocomplete): o Ruan combinou de começar a usar só quando eu avisar.** Previsão: início da Fase 2 (após POO/Collections com bom domínio), ou antes se ele já explicar sozinho o código que lê. Avisar no momento certo e lembrar da regra: se não consegue explicar a linha, apague e escreva sozinho.
 - Em marcos (fim de módulo ou de fase), propor um mini-projeto integrador e conferir o ritmo.
 
 ## Roadmap
@@ -39,8 +40,8 @@ Cada projeto com README em inglês, diagrama de arquitetura, Docker e testes.
 
 | Sessão | Capítulos | Status |
 |---|---|---|
-| 1 | 00:00 Intro · 01:00 Base da linguagem · 04:47 JVM · 06:43 Instalação · 10:08 Primeiro arquivo .java | concluída (assistida em 03/11/2026); exercícios 2–4 em andamento |
-| 2 | 13:32 Variáveis · 17:31 Tipos primitivos | próxima |
+| 1 | 00:00 Intro · 01:00 Base da linguagem · 04:47 JVM · 06:43 Instalação · 10:08 Primeiro arquivo .java | concluída (04/11/2026) |
+| 2 | 13:32 Variáveis · 17:31 Tipos primitivos | em andamento (iniciada em 04/11/2026) |
 | 3 | 24:36 Condicionais (if, else, else if) | |
 | 4 | 29:37 Vetores · 35:32 ArrayList | |
 | 5 | 39:12 Loops (for, while) | |
@@ -52,7 +53,7 @@ Cada projeto com README em inglês, diagrama de arquitetura, Docker e testes.
 | 10 | 01:30:26 Herança e polimorfismo | |
 | 11 | 01:46:00 Tratamento de exceções | |
 
-Código de cada sessão em `src/` organizado por tema (ex.: `src/aula01_primeiro_programa/`).
+Código do curso em `src/fernanda_kipper/` (tudo ali é do curso). Exercícios passados pelo mentor em `src/aulaNN_tema/`.
 
 ## Progresso
 

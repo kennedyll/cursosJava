@@ -1,8 +1,7 @@
-package fernanda_kipper;
+package aula02_variaveis;
 
-public class main {
+public class TesteSemValor {
     public static void main(String[] args) {
         
     }
-
 }
